@@ -2,4 +2,4 @@
 
 Efekt oscylujących w górę i w dół prostokątów napisany w czystym **JavaScript**.
 
-![Screen](/images/screen.png)
+![Screen](/images/screen.jpg)
